@@ -1,1 +1,1 @@
-# pyosipi
+# projectb's README
